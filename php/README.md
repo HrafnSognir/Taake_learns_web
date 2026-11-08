@@ -14,7 +14,7 @@ Server & data for my web projects
 
 ---
 
-<table align="center">
+<table>
 <tr>
 <td valign="top">
 
