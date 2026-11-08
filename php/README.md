@@ -44,4 +44,4 @@ Server & data for my web projects
 
 ---
 
-[![MIT License](https://img.shields.io/badge/License-MIT-%23d5c4a1)](../LICENSE)
+[![MIT License](https://img.shields.io/badge/License-MIT-%23d5c4a1)](https://github.com/HrafnSognir/Taake_learns_web/blob/main/LICENSE)
