@@ -29,7 +29,6 @@
 
 </details>
 
-</details>
 <details>
 <summary><b>CSS resources</b></summary>
 
@@ -49,16 +48,18 @@
 <details>
 <summary><b>Neutralinojs resources</b></summary>
 
-- [Neutralinojs](https://neutralino.js.org/)
+- [Neutralinojs Introduction](https://neutralino.js.org/docs/)
+
 </details>
 
 <details>
-<summary><b>Game Dev resources</b></summary>
+<summary><b>Game development resources</b></summary>
 
-- [Canvas API](https://developer.mozilla.org/en-US/docs/Web/API/Canvas_API)
-- [Canvas tutorial](https://developer.mozilla.org/en-US/docs/Web/API/Canvas_API/Tutorial)
 - [2D breakout game using pure JavaScript](https://developer.mozilla.org/en-US/docs/Games/Tutorials/2D_breakout_game_pure_JavaScript)
 - [Game Programming Patterns](https://gameprogrammingpatterns.com/)
+- [LDtk Documentation](https://ldtk.io/docs/)
+- [Canvas tutorial](https://developer.mozilla.org/en-US/docs/Web/API/Canvas_API/Tutorial)
+- [Canvas API](https://developer.mozilla.org/en-US/docs/Web/API/Canvas_API)
 
 </details>
 
