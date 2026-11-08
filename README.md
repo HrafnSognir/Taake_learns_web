@@ -66,4 +66,4 @@
 
 ---
 
-[![MIT License](https://img.shields.io/badge/License-MIT-%23d5c4a1)](https://github.com/HrafnSognir/Taake_learns_to_C?tab=MIT-1-ov-file)
+[![MIT License](https://img.shields.io/badge/License-MIT-%23d5c4a1)](LICENSE)
