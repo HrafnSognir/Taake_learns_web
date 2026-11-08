@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://raw.githubusercontent.com/HrafnSognir/HrafnSognir/main/Assests/gameBanner.svg" width="65%">
+  <img src="https://raw.githubusercontent.com/HrafnSognir/HrafnSognir/main/Assests/banner.svg" width="65%">
 </p><div align="center">
 <a href="https://developer.mozilla.org/en-US/docs/Web/HTML"><img src="https://cdn.simpleicons.org/html5/d5c4a1?viewbox=auto&size=25"/></a>
 <a href="https://developer.mozilla.org/en-US/docs/Web/CSS"><img src="https://cdn.simpleicons.org/css/d5c4a1?viewbox=auto&size=25"/></a>
