@@ -26,7 +26,6 @@ Server & data for my web projects
 - [PHP Manual](https://www.php.net/manual/en/)
 - [PHP: A simple tutorial](https://www.php.net/manual/en/tutorial.php)
 - [PHP The Right Way](https://phptherightway.com/)
-- [PHP built-in web server](https://www.php.net/manual/en/features.commandline.webserver.php)
 - [PDO (database access)](https://www.php.net/manual/en/book.pdo.php)
 - [Using Fetch (JS → PHP)](https://developer.mozilla.org/en-US/docs/Web/API/Fetch_API/Using_Fetch)
 
@@ -40,6 +39,14 @@ Server & data for my web projects
 - [SQLite Tutorial](https://www.sqlitetutorial.net/)
 - [PDO SQLite driver](https://www.php.net/manual/en/ref.pdo-sqlite.php)
 - [DB Browser for SQLite](https://sqlitebrowser.org/)
+
+</td>
+<td valign="top">
+
+<p align="center"><b>Server resources</b></p>
+
+- [nginx Beginner's Guide](https://nginx.org/en/docs/beginners_guide.html)
+- [Raspberry Pi Documentation](https://www.raspberrypi.com/documentation/)
 
 </td>
 </tr>
